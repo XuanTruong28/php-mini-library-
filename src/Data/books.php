@@ -31,6 +31,6 @@ return [
         'author' => 'Tom Lee',
         'category' => 'Web Development',
         'year' => 2023,
-        'quantity' => 7
+        'quantity' => 5
     ]
 ];

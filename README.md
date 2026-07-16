@@ -1,7 +1,6 @@
 # PHP Mini Library
 
-
-Week 1 PHP Lab
+Sample PHP Lab 1
 
 
 ## Run
